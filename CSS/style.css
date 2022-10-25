@@ -1,0 +1,56 @@
+body {
+  background-color: #F2F5EA;
+}
+.navigation-bar {
+  width: 75%;  
+  height: 80px; 
+  padding: 8px;
+  background-color: #F2F5EA; 
+  list-style-type: none; 
+  text-align: center;
+}
+.logo {
+  display: inline-block;
+  float: right;
+  width: 150px;
+  height: 150px;
+  margin-right: 20px;
+  margin-top: 12px;  
+}
+.navigation-bar > a {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 50px;
+  height: 150px;        
+  line-height: 150px;  
+  color: black;  
+  text-decoration: none;
+}
+.navigation-title {
+  padding-top: 100px;
+  text-align: center;
+}
+.jumbotron {
+  padding-top: 100px;
+  padding-left:325px;
+  padding-right:325px;
+  text-align: left;
+}
+
+.lead {
+  text-align: left;
+  font-style: italic;
+  font-size: 24px;
+}
+.sectionLead {
+  font-size: 20px;
+  text-align: left;
+}
+.containerResearch {
+  padding-left:325px;
+  padding-right:325px;
+}
+.footer {
+  color: black;  
+  text-decoration: none;
+}
